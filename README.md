@@ -63,7 +63,7 @@ Start the enhanced client with:
 
 When prompted, enter the message you wish to send to the server.
 
-# Advanced Features (Only for client -> server)
+## Brownie Features (Only for client -> server)
 
 The client_brownie.py and server_brownie.py scripts enhance the basic functionality by sending data in clumps of 10 characters and compressing data during transfer.
 

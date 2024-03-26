@@ -67,8 +67,8 @@ When prompted, enter the message you wish to send to the server.
 
 The client_brownie.py and server_brownie.py scripts enhance the basic functionality by sending data in clumps of 10 characters and compressing data during transfer.
 
-### Success rate - 100%
-### Speed - 100%
+### Success rate - 80%
+### Speed - 90%
 
 Running the Enhanced Server
 Start the enhanced server with:

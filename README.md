@@ -2,7 +2,9 @@
 
 Imagine a world without TCP. Make a network server that reverses any received string and
 sends it back to the client. ( A CLI for the client will be sufficient a UI is not necessary).
+
 Objectives:
+
 ● The client-server connection should only be over UDP sockets.
 
 ● Data transmission must be reliable and in-order byte stream (data must be sent

@@ -1,4 +1,4 @@
-# UDP Echo Server and Client (Priject details)
+# UDP Echo Server and Client (Project details)
 
 Imagine a world without TCP. Make a network server that reverses any received string and
 sends it back to the client. ( A CLI for the client will be sufficient a UI is not necessary).
